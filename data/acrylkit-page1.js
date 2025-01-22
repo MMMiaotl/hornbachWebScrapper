@@ -1,0 +1,22 @@
+[
+          { name: 'Acryl voegkit wit 300 ml', name_nl: 'Acryl voegkit wit 300 ml', image: 'https://media.hornbach.nl/hb/packshot/as.47088129.jpg?dvid=8', quantity: 0, price: 1.55, artnum: '8601372' },
+          { name: 'Acrylaatkit grijs 300 ml', name_nl: 'Acrylaatkit grijs 300 ml', image: 'https://media.hornbach.nl/hb/packshot/as.47082226.jpg?dvid=8', quantity: 0, price: 1.99, artnum: '8601370' },
+          { name: 'BISON Acrylaatkit grijs 310 ml', name_nl: 'BISON Acrylaatkit grijs 310 ml', image: 'https://media.hornbach.nl/hb/packshot/as.122399498.jpg?dvid=8', quantity: 0, price: 4.95, artnum: '4149939' },
+          { name: 'BISON Acrylaatkit regenvast wit 310 ml', name_nl: 'BISON Acrylaatkit regenvast wit 310 ml', image: 'https://media.hornbach.nl/hb/packshot/as.46980119.jpg?dvid=8', quantity: 0, price: 5.25, artnum: '7136326' },
+          { name: 'BISON Acrylaatkit wit 310 ml', name_nl: 'BISON Acrylaatkit wit 310 ml', image: 'https://media.hornbach.nl/hb/packshot/as.46061084.jpg?dvid=8', quantity: 0, price: 5.25, artnum: '4182421' },
+          { name: 'BISON Acrylaatkit wit 310 ml', name_nl: 'BISON Acrylaatkit wit 310 ml', image: 'https://media.hornbach.nl/hb/packshot/as.46598037.jpg?dvid=8', quantity: 0, price: 4.95, artnum: '4151215' },
+          { name: 'BISON Acrylaatkit zwart 310 ml', name_nl: 'BISON Acrylaatkit zwart 310 ml', image: 'https://media.hornbach.nl/hb/packshot/as.46496550.jpg?dvid=8', quantity: 0, price: 4.95, artnum: '4138920' },
+          { name: 'BISON Super acryl schilderskit 300 ml', name_nl: 'BISON Super acryl schilderskit 300 ml', image: 'https://media.hornbach.nl/hb/packshot/as.101007018.jpg?dvid=8', quantity: 0, price: 6.69, artnum: '8804073' },
+          { name: 'Kwaliteits-acryl wit 300 ml', name_nl: 'Kwaliteits-acryl wit 300 ml', image: 'https://media.hornbach.nl/hb/packshot/as.47082226.jpg?dvid=8', quantity: 0, price: 1.9, artnum: '8601359' },
+          { name: 'MODULAN 620 Schildersacryl grijs 300 ml', name_nl: 'MODULAN 620 Schildersacryl grijs 300 ml', image: 'https://media.hornbach.nl/hb/packshot/as.75684900.jpg?dvid=8', quantity: 0, price: 4.29, artnum: '5803391' },
+          { name: 'MODULAN 620 Schildersacryl wit 300 ml', name_nl: 'MODULAN 620 Schildersacryl wit 300 ml', image: 'https://media.hornbach.nl/hb/packshot/as.75685450.jpg?dvid=8', quantity: 0, price: 4.29, artnum: '5803390' },
+          { name: 'MODULAN 624 Schildersacryl Express wit 300 ml', name_nl: 'MODULAN 624 Schildersacryl Express wit 300 ml', image: 'https://media.hornbach.nl/hb/packshot/as.75685516.jpg?dvid=8', quantity: 0, price: 4.95, artnum: '10247198' },
+          { name: 'MODULAN 640 Schildersstructuuracryl wit 300 ml', name_nl: 'MODULAN 640 Schildersstructuuracryl wit 300 ml', image: 'https://media.hornbach.nl/hb/packshot/as.75685009.jpg?dvid=8', quantity: 0, price: 4.29, artnum: '5803389' },
+          { name: 'PRECIT Acrylaatkit bruin 310 ml', name_nl: 'PRECIT Acrylaatkit bruin 310 ml', image: 'https://media.hornbach.nl/hb/packshot/as.18949974.jpg?dvid=8', quantity: 0, price: 2.89, artnum: '10313715' },
+          { name: 'PRECIT Acrylaatkit grijs 310ml', name_nl: 'PRECIT Acrylaatkit grijs 310ml', image: 'https://media.hornbach.nl/hb/packshot/as.18951311.jpg?dvid=8', quantity: 0, price: 2.89, artnum: '10313766' },
+          { name: 'PRECIT acryl wit 310 ml', name_nl: 'PRECIT acryl wit 310 ml', image: 'https://media.hornbach.nl/hb/packshot/as.18952418.jpg?dvid=8', quantity: 0, price: 2.89, artnum: '10313763' },
+          { name: 'SOUDAL Schilderskit NF sneldrogend wit kitkoker 290 ml', name_nl: 'SOUDAL Schilderskit NF sneldrogend wit kitkoker 290 ml', image: 'https://media.hornbach.nl/hb/packshot/as.46704139.jpg?dvid=8', quantity: 0, price: 4.45, artnum: '7107067' },
+          { name: 'SOUDAL Schilderskit bruin kitkoker 290 ml', name_nl: 'SOUDAL Schilderskit bruin kitkoker 290 ml', image: 'https://media.hornbach.nl/hb/packshot/as.46873669.jpg?dvid=8', quantity: 0, price: 3.75, artnum: '7923754' },
+          { name: 'SOUDAL Schilderskit grijs kitkoker 290 ml', name_nl: 'SOUDAL Schilderskit grijs kitkoker 290 ml', image: 'https://media.hornbach.nl/hb/packshot/as.46873426.jpg?dvid=8', quantity: 0, price: 3.75, artnum: '7923753' },
+          { name: 'SOUDAL Schilderskit wit kitkoker 290 ml', name_nl: 'SOUDAL Schilderskit wit kitkoker 290 ml', image: 'https://media.hornbach.nl/hb/packshot/as.47185363.jpg?dvid=8', quantity: 0, price: 3.65, artnum: '7107044' }
+]

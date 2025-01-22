@@ -1,0 +1,15 @@
+const steenwol = [
+  { name: 'ROCKWOOL Steenwol RockFit DUO 433 Rd 2,10 1000x800x75 mm', name_nl: 'ROCKWOOL Steenwol RockFit DUO 433 Rd 2,10 1000x800x75 mm', image: 'https://media.hornbach.nl/hb/packshot/as.82662484.jpg?dvid=8', quantity: 0, price: 11.5, artnum: '10283905' },
+  { name: 'ROCKWOOL Steenwol RockFit DUO 433 Rd 2,85 1000x800x100 mm', name_nl: 'ROCKWOOL Steenwol RockFit DUO 433 Rd 2,85 1000x800x100 mm', image: 'https://media.hornbach.nl/hb/packshot/as.82662484.jpg?dvid=8', quantity: 0, price: 14.95, artnum: '10283904' },
+  { name: 'ROCKWOOL Steenwol RockFit DUO 433 Rd 3,40 1000x800x120 mm', name_nl: 'ROCKWOOL Steenwol RockFit DUO 433 Rd 3,40 1000x800x120 mm', image: 'https://media.hornbach.nl/hb/packshot/as.82662484.jpg?dvid=8', quantity: 0, price: 17.25, artnum: '10283906' },
+  { name: 'ROCKWOOL Steenwol RockRoof Sidefix spijkerflensdeken Rd 2,00 6000x600x80 mm', name_nl: 'ROCKWOOL Steenwol RockRoof Sidefix spijkerflensdeken Rd 2,00 6000x600x80 mm', image: 'https://media.hornbach.nl/hb/packshot/as.82662477.jpg?dvid=8', quantity: 0, price: 9.95, artnum: '10230463' },
+  { name: 'ROCKWOOL Steenwol RockRoof Sidefix spijkerflensdeken Rd 2,50 5000x600x100 mm', name_nl: 'ROCKWOOL Steenwol RockRoof Sidefix spijkerflensdeken Rd 2,50 5000x600x100 mm', image: 'https://media.hornbach.nl/hb/packshot/as.82662507.jpg?dvid=8', quantity: 0, price: 10.4, artnum: '6324167' },
+  { name: 'ROCKWOOL Steenwol RockRoof Sidefix spijkerflensdeken Rd 3,00 4500x600x120 mm', name_nl: 'ROCKWOOL Steenwol RockRoof Sidefix spijkerflensdeken Rd 3,00 4500x600x120 mm', image: 'https://media.hornbach.nl/hb/packshot/as.82662507.jpg?dvid=8', quantity: 0, price: 12.95, artnum: '6324170' },
+  { name: 'ROCKWOOL Steenwol RockRoof Sidefix spijkerflensdeken Rd 3,50 3500x600x140 mm', name_nl: 'ROCKWOOL Steenwol RockRoof Sidefix spijkerflensdeken Rd 3,50 3500x600x140 mm', image: 'https://media.hornbach.nl/hb/packshot/as.82662507.jpg?dvid=8', quantity: 0, price: 18.25, artnum: '10598712' },
+  { name: 'ROCKWOOL Steenwol RockSono Base bouwplaat Rd 1,35 1200x600x50 mm', name_nl: 'ROCKWOOL Steenwol RockSono Base bouwplaat Rd 1,35 1200x600x50 mm', image: 'https://media.hornbach.nl/hb/packshot/as.82662503.jpg?dvid=8', quantity: 0, price: 5.75, artnum: '6324162' },
+  { name: 'ROCKWOOL Steenwol RockSono Base bouwplaat Rd 2,00 1200x600x75 mm', name_nl: 'ROCKWOOL Steenwol RockSono Base bouwplaat Rd 2,00 1200x600x75 mm', image: 'https://media.hornbach.nl/hb/packshot/as.82662503.jpg?dvid=8', quantity: 0, price: 10.4, artnum: '10598714' },
+  { name: 'ROCKWOOL Steenwol RockSono Base bouwplaat Rd 3,75 1200x600x140 mm', name_nl: 'ROCKWOOL Steenwol RockSono Base bouwplaat Rd 3,75 1200x600x140 mm', image: 'https://media.hornbach.nl/hb/packshot/as.82662503.jpg?dvid=8', quantity: 0, price: 18.15, artnum: '10598713' },
+  { name: 'ROCKWOOL Steenwol RockSono Solid bouwplaat Rd 2,85 1000x600x100 mm', name_nl: 'ROCKWOOL Steenwol RockSono Solid bouwplaat Rd 2,85 1000x600x100 mm', image: 'https://media.hornbach.nl/hb/packshot/as.82662471.jpg?dvid=8', quantity: 0, price: 13.8, artnum: '6373105' }
+];
+
+module.exports = steenwol;  // 导出数据

@@ -1,0 +1,76 @@
+2025-01-02 15:05:48,134 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-buis-dikwandig-pvc-o-110-mm-lengte-200-cm/4106238/, 错误: HornbachScraper.parse_variants() takes 2 positional arguments but 3 were given
+2025-01-02 15:05:48,805 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-buis-dikwandig-pvc-o-125-mm-lengte-400-cm/4105949/, 错误: HornbachScraper.parse_variants() takes 2 positional arguments but 3 were given
+2025-01-02 15:05:49,464 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-buis-dikwandig-pvc-o-40-mm-lengte-400-cm/4105945/, 错误: HornbachScraper.parse_variants() takes 2 positional arguments but 3 were given
+2025-01-02 15:05:50,213 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-buis-dikwandig-pvc-o-75-mm-lengte-400-cm/4105947/, 错误: HornbachScraper.parse_variants() takes 2 positional arguments but 3 were given
+2025-01-02 15:05:50,815 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-buis-pvc-o-50-mm-lengte-400-cm/4105946/, 错误: HornbachScraper.parse_variants() takes 2 positional arguments but 3 were given
+2025-01-02 17:30:41,526 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-buisbeugelpen-gegalvaniseerd-metaal-m8-x-89-mm-5-stuks/8503569/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:31:08,231 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/universele-sifon-abs-o-40-mm-grijs/8126301/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:31:59,283 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-beluchter-met-klemaanslag-pvc-o-40-mm/8200229/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:32:10,559 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-sifon-pvc-o-50-mm/4106196/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:32:39,403 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-steekmof-pvc-2x-manchet-o-40-mm/8143004/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:32:50,534 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-overschuifmof-2x-manchet-pvc-o-40-mm/4199184/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:33:01,794 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-zadel-pvc-o-40-mm/4106136/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:33:12,885 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-overschuifmof-dikwandig-pvc-2x-manchet-o-125-mm/4106186/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:33:37,971 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-overschuifmof-2x-manchet-pvc-o-50-mm/4199185/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:33:49,433 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-dubbele-lijmmof-dikwandig-pvc-2x-lijm-o-40-mm/4106080/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:34:09,761 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-dubbele-lijmmof-dikwandig-pvc-2x-lijm-o-75-mm/4106082/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:34:29,954 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-verloop-dikwandig-pvc-1x-lijm-o-40x50-mm/4106039/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:34:47,626 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-dubbele-steekmof-dikwandig-pvc-2x-manchet-o-125-mm/4106183/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:34:58,877 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-bocht-45-pvc-1x-manchet-o-50-mm/8144110/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:35:17,029 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-overgangsring-rubber-o-40x30-mm/4106249/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:35:28,338 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-dubbele-lijmmof-dikwandig-pvc-2x-lijm-o-50-mm/4106081/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:35:39,729 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-overschuifmof-2x-manchet-pvc-o-75-mm/4199186/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:35:50,937 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-bocht-90-pvc-1x-manchet-o-40-mm/8142996/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:36:02,492 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-steekmof-pvc-2x-manchet-o-50-mm/8143006/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:36:17,026 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-bocht-45-pvc-1x-manchet-o-40-mm/8142995/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:36:28,180 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-t-stuk-45-dikwandig-pvc-2x-lijm-o-75x75-mm/4105989/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:36:39,568 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-zadel-pvc-o-50-mm/4106137/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:37:24,103 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-verloop-pvc-1x-lijm-o-75x80-mm/4106218/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:37:35,333 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-mastgooteinduitloop-pvc-antraciet-70-80x100-mm/7906359/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:37:46,698 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-verloop-dikwandig-pvc-1x-lijm-o-50x110-mm/4106043/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:37:57,789 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-zadel-pvc-o-75-mm/4106036/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:38:15,794 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-sifon-universeel-abs-o-40-mm/6094245/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:38:27,100 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-verloop-dikwandig-pvc-1x-lijm-o-50x75-mm/4106042/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:38:44,816 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-vloerput-polypropyleen-75-mm/4166462/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:38:56,139 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-eindstop-met-schroefdeksel-pvc-o-125-mm/4106190/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:39:07,459 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-dubbele-lijmmof-dikwandig-pvc-2x-lijm-o-125-mm/4106084/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:39:18,850 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-verloop-dikwandig-pvc-1x-lijm-o-75x110-mm/4106045/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:39:30,028 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-verloop-dikwandig-pvc-1x-manchet-o-110x125-mm/4106049/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:39:47,639 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-t-stuk-45-dikwandig-pvc-3x-lijm-o-110x40-mm/4106012/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:39:58,830 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-zadel-pvc-o-32-mm/4106135/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:40:10,100 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-verloop-dikwandig-pvc-1x-lijm-o-40x110-mm/4106041/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:40:21,502 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-eindkap-om-de-buis-pvc-o-40-mm/4106094/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:40:45,402 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-bocht-90-pvc-1x-manchet-o-50-mm/8142997/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:40:56,683 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-t-stuk-45-pvc-2x-manchet-o-40x40-mm/8143000/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:41:07,907 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/universele-sifon-pvc-o-32-mm-grijs/8126300/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:41:28,454 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-eindkap-om-de-buis-pvc-o-75-mm/4106096/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:41:39,617 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-t-stuk-90-dikwandig-pvc-2x-lijm-o-75x75-mm/4105990/, 错误: object of type 'NoneType' has no len()
+2025-01-02 17:41:39,619 - ERROR - 主函数出现错误: dict contains fields not in fieldnames: 'spec', 'image'
+2025-01-03 22:11:43,576 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-buisbeugelpen-gegalvaniseerd-metaal-m8-x-89-mm-5-stuks/8503569/, 错误: object of type 'NoneType' has no len()
+2025-01-03 22:12:11,896 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/universele-sifon-abs-o-40-mm-grijs/8126301/, 错误: object of type 'NoneType' has no len()
+2025-01-03 22:12:19,013 - ERROR - 主函数出现错误: dict contains fields not in fieldnames: 'spec', 'image'
+2025-01-03 22:14:05,322 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/martens-buisbeugelpen-gegalvaniseerd-metaal-m8-x-89-mm-5-stuks/8503569/, 错误: object of type 'NoneType' has no len()
+2025-01-03 22:14:35,347 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/universele-sifon-abs-o-40-mm-grijs/8126301/, 错误: object of type 'NoneType' has no len()
+2025-01-03 22:22:03,835 - ERROR - 抓取商品详情失败: https://www.hornbach.nl/p/universele-sifon-abs-o-40-mm-grijs/8126301/, 错误: object of type 'NoneType' has no len()
+2025-01-12 00:13:07,304 - ERROR - 分类页面抓取失败
+2025-01-12 15:05:49,726 - ERROR - 主函数出现错误: dict contains fields not in fieldnames: 'category'
+2025-01-12 15:08:09,842 - ERROR - 主函数出现错误: dict contains fields not in fieldnames: 'category'
+2025-01-12 23:05:23,355 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-12 23:25:50,624 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-12 23:48:02,186 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-12 23:57:26,523 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:06:05,512 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:08:27,897 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:10:53,148 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:11:57,229 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:13:16,898 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:16:01,800 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:18:34,397 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:24:14,199 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:25:50,678 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:26:35,859 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:27:18,868 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:28:20,241 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:28:57,673 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:31:21,824 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#
+2025-01-13 00:31:56,749 - ERROR - 分类页面抓取失败: https://www.hornbach.nl#

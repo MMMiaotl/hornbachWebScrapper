@@ -1,0 +1,15 @@
+[
+{ name: 'Egalisatiemortel 3-30 mm, 25 kg', name_nl: 'Egalisatiemortel 3-30 mm, 25 kg', image: 'https://media.hornbach.nl/hb/packshot/as.52868279.jpg?dvid=8', quantity: 0, price: 21.95, artnum: '10549105' },
+{ name: 'SAKRETE Gietvloermortel snel 25 kg', name_nl: 'SAKRETE Gietvloermortel snel 25 kg', image: 'https://media.hornbach.nl/hb/packshot/as.35140869.jpg?dvid=8', quantity: 0, price: 11.95, artnum: '10373522' },
+{ name: 'SAKRETE Egalisatiemortel EM10 25 kg', name_nl: 'SAKRETE Egalisatiemortel EM10 25 kg', image: 'https://media.hornbach.nl/hb/packshot/as.47466404.jpg?dvid=8', quantity: 0, price: 26.45, artnum: '8873418' },
+{ name: 'SAKRETE Egalisatiemortel EM30 25 kg', name_nl: 'SAKRETE Egalisatiemortel EM30 25 kg', image: 'https://media.hornbach.nl/hb/packshot/as.47373380.jpg?dvid=8', quantity: 0, price: 26.45, artnum: '7399352' },
+{ name: 'AKKIT 201 Egalisatiemortel CT C20 F6 25 kg', name_nl: 'AKKIT 201 Egalisatiemortel CT C20 F6 25 kg', image: 'https://media.hornbach.nl/hb/packshot/as.47410785.jpg?dvid=8', quantity: 0, price: 24.95, artnum: '8582240' },
+{ name: 'SAKRETE Kantstrook 25 meter', name_nl: 'SAKRETE Kantstrook 25 meter', image: 'https://media.hornbach.nl/hb/packshot/as.46327730.jpg?dvid=8', quantity: 0, price: 33.95, artnum: '6065392' },
+{ name: 'AKKIT 203 Gietmortel CT C25 F6 25 kg', name_nl: 'AKKIT 203 Gietmortel CT C25 F6 25 kg', image: 'https://media.hornbach.nl/hb/packshot/as.47477729.jpg?dvid=8', quantity: 0, price: 22.95, artnum: '8585842' },
+{ name: 'SAKRETE Krimparme gietmortel GM5 25 kg', name_nl: 'SAKRETE Krimparme gietmortel GM5 25 kg', image: 'https://media.hornbach.nl/hb/packshot/as.47372288.jpg?dvid=8', quantity: 0, price: 20.75, artnum: '7399351' },
+{ name: 'AKKIT 204 Egalisatie- en uitvlakmortel CT C12 F4 25 kg', name_nl: 'AKKIT 204 Egalisatie- en uitvlakmortel CT C12 F4 25 kg', image: 'https://media.hornbach.nl/hb/packshot/as.46729010.jpg?dvid=8', quantity: 0, price: 25.95, artnum: '6631394' },
+{ name: 'FORBO EUROCOL Egalisatiemortel 975 europlan 23 kg', name_nl: 'FORBO EUROCOL Egalisatiemortel 975 europlan 23 kg', image: 'https://media.hornbach.nl/hb/packshot/as.46766779.jpg?dvid=8', quantity: 0, price: 36.95, artnum: '4693714' },
+{ name: 'SAKRETE Egalisatiemortel ALLROUND 10 kg', name_nl: 'SAKRETE Egalisatiemortel ALLROUND 10 kg', image: 'https://media.hornbach.nl/hb/packshot/as.47373689.jpg?dvid=8', quantity: 0, price: 12.95, artnum: '7399353' },
+{ name: 'EUROCOL 802 Eurostrip basic zelfklevende randstrook', name_nl: 'EUROCOL 802 Eurostrip basic zelfklevende randstrook', image: 'https://media.hornbach.nl/hb/packshot/as.46767130.jpg?dvid=8', quantity: 0, price: 25.0, artnum: '4693721' },
+{ name: 'OMNICOL Egalisatiemortel omnimix W100 R 20 kg', name_nl: 'OMNICOL Egalisatiemortel omnimix W100 R 20 kg', image: 'https://media.hornbach.nl/hb/packshot/as.89595203.jpg?dvid=8', quantity: 0, price: 36.75, artnum: '10493100' }
+]
